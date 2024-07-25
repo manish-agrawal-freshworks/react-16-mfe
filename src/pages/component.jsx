@@ -1,6 +1,5 @@
 import React from "react";
 import moment from 'moment';
-import '../index.css';
 
 const Comoponent = () =>  {
     const momentLibInformation = () => {
